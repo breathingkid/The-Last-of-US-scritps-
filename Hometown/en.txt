@@ -1,15 +1,15 @@
- Joel: Tommy I—Tommy, Tommy listen to me, he is the contractor. He's the contractor, okay? I can't lose this job. I understand…
+Joel: Tommy I—Tommy, Tommy listen to me, he is the contractor. He's the contractor, okay? I can't lose this job. I understand…
 
 Joel: Let's talk about this in the morning, okay?  We'll talk about it in the morning. All right, goodnight.
 
 Sarah: Hey.
 
 Joel: Scoot.
-原译：坐过去
+官译：坐过去
 私译：腾地儿
 
 Sarah: Fun day at work, huh?
-原译：今天工作开心吗
+官译：今天工作开心吗
 私译：今天工作的挺开心呗
 
 Joel: What are you still doing up? It's late.
@@ -19,11 +19,11 @@ Sarah: Oh, crud. What time is it?
 Joel: It's way past your bedtime.
 
 Sarah: But it's still today.
-原译：但还没过12点。
+官译：但还没过12点。
 私译：但还是今天
 
 Joel: Honey, please not right now. I do not have the energy for this.
-原译：宝贝，听话，我现在没有精力跟你聊
+官译：宝贝，听话，我现在没有精力跟你聊
 私译：宝贝，现在别，我没有精力搞这个了
 
 Sarah: Here.
@@ -39,17 +39,17 @@ Joel: Honey, this is…
 Sarah: What?
 
 Joel: It's nice but I—I think it's stuck. It's not—
-原译：这表好像是坏的
+官译：这表好像是坏的
 私译：我觉得它卡住了
 
 Sarah: What?  No, no, no, no.  Oh, ha, ha.
-原译：哦，哈哈
+官译：哦，哈哈
 私译：哦，呵呵
 
 Joel: Where did you get the money for this?
 
 Sarah:  Drugs. I sell hardcore drugs.
-原译：我靠贩毒弄到的钱
+官译：我靠贩毒弄到的钱
 私译：我卖硬核毒品
 
 Joel: Oh, good.  You can start helping out with the mortgage then.
@@ -147,7 +147,7 @@ Joel: Listen to me, there is something bad going on. We have got to get outta he
 Sarah:  Yeah.
 
 Joel: Tommy. C'mon.  C'mon.
-原译：拜托
+官译：拜托
 私译：走，走
 
 Sarah:  Okay.
@@ -157,7 +157,7 @@ Tommy: Where the hell you been? You have any idea what's goin' on out there?
 Joel: I got some notion. 
 
 Tommy: Holy shit. You got blood all over you.
-原译：天啊
+官译：天啊
 私译：我靠
 
 Joel:  C'mon, baby. Go on in there.  It ain't mine. Let's just get outta here.
@@ -165,7 +165,7 @@ Joel:  C'mon, baby. Go on in there.  It ain't mine. Let's just get outta here.
 Tommy: They're saying that half the people in the city have lost their minds.
 
 Joel: Can we please just go? 
-原译：我们能走了吗
+官译：我们能走了吗
 私译：我们能不能先走
 
 Tommy: Some sort of parasite or something.  You gonna tell me what happened?
@@ -175,8 +175,8 @@ Joel: Later.
 Tommy:  Hey, Sarah. How you holdin' up, honey? 
 
 Sarah: I'm fine. Can we hear what's on the radio?
-原译：我们能听下收音机吗？
-私译：能不能开一下收音机？
+官译：能不能开一下收音机？
+私译：我们能听下收音机吗？
 
 Tommy: Yeah, sure thing. 
 
@@ -205,7 +205,7 @@ Joel: Jesus Christ, how did this happen?
 Tommy: They got no clue. But we ain't the only town. At first they were saying it was just the South. Now they're going on about the East Coast, the West Coast…
 
 Tommy: Holy hell. That's Louis' farm.  I hope that son of a bitch made it out.bit
-原译：我希望那小子逃出来了
+官译：我希望那小子逃出来了
 私译：我希望那混蛋逃出来了
 
 Joel: I'm sure he did.
@@ -227,7 +227,7 @@ Sarah: All right.
 Tommy: Let's see what they need 
 
 Joel: What the hell do you think you're doin'? Keep drivin'.
-原译：你到底在干什么？
+官译：你到底在干什么？
 私译：你知道你在干什么呢么？
 
 Tommy: They got a kid, Joel.
@@ -251,7 +251,7 @@ Tommy: Oh, this is bad. Everyone and their mother had the same damn idea.
 Joel: Well… we could just backtrack and—
 
 Male civilian:  Hey, what the fuck, man? Let's go!
-原译：嘿，搞什么，快走
+官译：嘿，搞什么，快走
 私译：干他妈啥呢，快走啊！
 
 Joel: Holy shit. Turn us around.
@@ -291,7 +291,7 @@ Tommy:  I can't fuckin' drive through 'em, Joel!
 Joel: Then back up then!
 
 Tommy: They're behind me too!
-原译：后面也是那些家伙！
+官译：后面也是那些家伙！
 私译：他们也在我后面！
 
 Joel: There.  There! There!
